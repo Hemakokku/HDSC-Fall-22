@@ -1,12 +1,12 @@
 # HDSC-Fall-22
 Data Science The data science track includes multiple carefully crafted courses. These include: 
 
-# (i) Introduction to Python for Machine Learning, 
-# (ii) Regression in Machine Learning, 
-# (iii) Classification in Machine Learning,
-# (iv) Neural Network,
-# (v) Image Recognition and Object Detection,
-# (vi)Practical Time Series Analysis and a capstone project.
+ (i) Introduction to Python for Machine Learning, 
+ (ii) Regression in Machine Learning, 
+ (iii) Classification in Machine Learning,
+ (iv) Neural Network,
+ (v) Image Recognition and Object Detection,
+ (vi)Practical Time Series Analysis and a capstone project.
 
 
 # Hamoye_internship_22_stage_A
